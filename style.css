@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(247, 95, 39);
+}
+.container img{
+    width: 180px;
+    padding: 8px;
+}
+h1{
+    color: rgb(238, 231, 231);
+    text-align: center;
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.con1,.con2,.con3,.con4{
+    display: flex;
+    background: white;
+    margin: 20px;
+    border-radius: 16px;
+}
+.content p{
+    width: 300px;
+}
+.con{
+    margin-left: 18px;
+}
